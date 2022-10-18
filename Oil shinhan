@@ -1,6 +1,0 @@
-a = 0
-input (a)
-for i in range(0,30):
-  a{}.fotmat(i) = a * i
-  print a{}.format(i)
-  
